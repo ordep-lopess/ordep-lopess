@@ -2,7 +2,7 @@
 ### 🎓 Formação Acadêmica:
 - Análise e desenvolvimento de sistemas | Universidade de Mogi das Cruzes | Data de conclusão 12/2025
 ### 🚀 Objetivos:
-- desenvolvimento front-end | desenvolvimento backend | desenvolvimento web
+- desenvolvimento front-end | desenvolvimento backend | banco de dados
 
 ### 📱 Contatos:
 <div> 
